@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650707314695",
+    "project_id": "sacka-2ff31",
+    "storage_bucket": "sacka-2ff31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650707314695:android:46d0a0e3ca73582294a2a2",
+        "android_client_info": {
+          "package_name": "com.example.sacka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650707314695-ba8qeot7hq1fjdviej59jstjplip77os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWymGduw6EEyXB-zHm7EAcw7XBzYH_S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650707314695-ba8qeot7hq1fjdviej59jstjplip77os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

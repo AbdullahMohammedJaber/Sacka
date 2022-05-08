@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>650707314695-dtg4i3n84u7i3ssiatme7vcslka7tmm0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.650707314695-dtg4i3n84u7i3ssiatme7vcslka7tmm0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3s-tnbOVBIaoP6GHqkEhhjAHwveWBitc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>650707314695</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sacka</string>
+	<key>PROJECT_ID</key>
+	<string>sacka-2ff31</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sacka-2ff31.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:650707314695:ios:5faec2d4e55b60e594a2a2</string>
+</dict>
+</plist>
